@@ -1,7 +1,3 @@
-
-'''
-Absolutely! It sounds like a fun and interactive way to learn. Here’s a simple task for you:
-
 ### Task:
 
 Create a Python class named `Rectangle` with the following specifications:
